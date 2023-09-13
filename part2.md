@@ -77,4 +77,4 @@ console.log("Current Spaceship Status: ", spaceship);
 
 Congratulations! With the navigation system initialized, you can now proceed to Section 3 where you'll work on the spaceship's communication system, a crucial step for calling home.
 
-Would you like to move on to the next section?
+[Next](https://github.com/ruizrica/LostInSpace/blob/main/part3.md)
