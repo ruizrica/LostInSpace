@@ -82,5 +82,3 @@ if (isShipIntegrityOk) {
 #### Lab Wrap-up:
 
 Congratulations, astronaut-coder! You've successfully navigated through an array of challenges in an unfamiliar galaxy. Your coding skills have powered up the spaceship, set the course, communicated with Earth, and brought you safely back home.
-
-Would you like to review any of the sections, or do you have any questions about the lab?
