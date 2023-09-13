@@ -76,4 +76,4 @@ Remember, time is of the essence, and you have to get back home!
 
 ---
 
-Next Level
+[Next Level](https://github.com/ruizrica/LostInSpace/blob/main/part2.md)https://github.com/ruizrica/LostInSpace/blob/main/part2.md
