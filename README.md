@@ -1,4 +1,4 @@
-### Lost in Space: Code Your Way Back Home
+# Lost in Space: Code Your Way Back Home
 
 ---
 
