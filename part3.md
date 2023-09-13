@@ -1,4 +1,4 @@
-##Lost in Space - Section 3: Communication Breakdown
+## Lost in Space - Section 3: Communication Breakdown
 
 ---
 
@@ -93,4 +93,4 @@ console.log("Decoded Earth's Response: ", decodedResponse);
 
 You're nearly there! With the communication system back online, Earth has been alerted about your situation. In the next and final section, you will prepare for re-entry into Earth's atmosphere.
 
-Would you like to move on to the final section?
+[Next](https://github.com/ruizrica/LostInSpace/blob/main/part4.md)
